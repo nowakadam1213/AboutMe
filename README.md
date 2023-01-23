@@ -3,7 +3,6 @@
 ## About Me
 Hi, my name is Adam Nowak. I'm interested in manual and automation testing. My goal is to further develop testing knowledge and technical skills. Below i'd like to share my accquired knowledge and experience.
 
-
 ## Testing Tools
   - [Greenshot](https://getgreenshot.org) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
